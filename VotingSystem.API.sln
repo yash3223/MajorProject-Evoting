@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VotingSystem.API", "VotingSystem.API\VotingSystem.API.csproj", "{A361DA38-7DEA-447B-9707-87D65E50D504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VotingSystem.Tests", "VotingSystem.Tests\VotingSystem.Tests.csproj", "{63916E3E-B613-4B49-8BB7-2E0E47B5DE12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A361DA38-7DEA-447B-9707-87D65E50D504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A361DA38-7DEA-447B-9707-87D65E50D504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A361DA38-7DEA-447B-9707-87D65E50D504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A361DA38-7DEA-447B-9707-87D65E50D504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63916E3E-B613-4B49-8BB7-2E0E47B5DE12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63916E3E-B613-4B49-8BB7-2E0E47B5DE12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63916E3E-B613-4B49-8BB7-2E0E47B5DE12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63916E3E-B613-4B49-8BB7-2E0E47B5DE12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C9B7F5-66EF-4A34-B9C6-23372A79914C}
+	EndGlobalSection
+EndGlobal
